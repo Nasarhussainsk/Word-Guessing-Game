@@ -73,7 +73,7 @@ Word-Guessing-Game/
 
 ```bash
 
-git clone https://github.com/your-username/Word-Guessing-Game.git
+git clone https://github.com/Nasarhussainsk/Word-Guessing-Game.git
 
 ```
 2\. Open the project folder.
